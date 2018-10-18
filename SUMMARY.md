@@ -1,6 +1,8 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [首页](README.md)
+* [三节课限免课](https://www.sanjieke.cn/free.html)
+* [哈哈哈哈哈](ha-ha-ha-ha-ha.md)
 
 ## 第一章 风
 
