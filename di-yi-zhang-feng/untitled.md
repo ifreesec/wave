@@ -2,11 +2,11 @@
 
 {% page-ref page="di-yi-jie-ji-feng.md" %}
 
-
 ## GitHub
 
-Public: **Yes (free)**  
+Public: **Yes \(free\)**  
 Private: **Paid only**  
 Supported authentication methods: **SSH and Basic**
 
-https://github.com/
+[https://github.com/](https://github.com/)
+

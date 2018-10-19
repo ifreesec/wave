@@ -1,7 +1,3 @@
----
-description: 季风随着季节变化
----
-
 # 第一节 季风
 
 ## Getting Super Powers
