@@ -9,4 +9,5 @@
 * [第一节 季风](di-yi-zhang-feng/di-yi-jie-ji-feng.md)
 * [Untitled](di-yi-zhang-feng/untitled.md)
 * [测试冲突](di-yi-zhang-feng/ce-shi-chong-tu.md)
+* [测试新建页面](di-yi-zhang-feng/ce-shi-xin-jian-ye-mian.md)
 
